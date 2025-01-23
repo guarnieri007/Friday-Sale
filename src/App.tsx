@@ -1,10 +1,10 @@
-import { Background } from "./components/background"
+import { LandingPage } from "./components/landingPage"
 
 function App() {
 
   return (
     <>
-      <Background />
+      <LandingPage />
     </>
   )
 }

@@ -4,7 +4,7 @@ body, p, div, h1, h2, h3, input, button {
     box-sizing: border-box;
 }
 
-body {
+body, html, #root {
     display: flex;
     flex-direction: column;
     flex-grow: 1;
